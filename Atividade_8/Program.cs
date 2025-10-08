@@ -39,3 +39,6 @@ if(Media >= 9)
 {
     Console.WriteLine("Valor incorreto");
 }
+
+
+Console.WriteLine("Você testou o app console de cálculo de nota");
