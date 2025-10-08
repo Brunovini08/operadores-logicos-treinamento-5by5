@@ -1,0 +1,14 @@
+C:\Users\Bruno Capita\source\repos\Atividade_1\Atividade_7\bin\Debug\net9.0\Atividade_7.exe
+C:\Users\Bruno Capita\source\repos\Atividade_1\Atividade_7\bin\Debug\net9.0\Atividade_7.deps.json
+C:\Users\Bruno Capita\source\repos\Atividade_1\Atividade_7\bin\Debug\net9.0\Atividade_7.runtimeconfig.json
+C:\Users\Bruno Capita\source\repos\Atividade_1\Atividade_7\bin\Debug\net9.0\Atividade_7.dll
+C:\Users\Bruno Capita\source\repos\Atividade_1\Atividade_7\bin\Debug\net9.0\Atividade_7.pdb
+C:\Users\Bruno Capita\source\repos\Atividade_1\Atividade_7\obj\Debug\net9.0\Atividade_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno Capita\source\repos\Atividade_1\Atividade_7\obj\Debug\net9.0\Atividade_7.AssemblyInfoInputs.cache
+C:\Users\Bruno Capita\source\repos\Atividade_1\Atividade_7\obj\Debug\net9.0\Atividade_7.AssemblyInfo.cs
+C:\Users\Bruno Capita\source\repos\Atividade_1\Atividade_7\obj\Debug\net9.0\Atividade_7.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Capita\source\repos\Atividade_1\Atividade_7\obj\Debug\net9.0\Atividade_7.dll
+C:\Users\Bruno Capita\source\repos\Atividade_1\Atividade_7\obj\Debug\net9.0\refint\Atividade_7.dll
+C:\Users\Bruno Capita\source\repos\Atividade_1\Atividade_7\obj\Debug\net9.0\Atividade_7.pdb
+C:\Users\Bruno Capita\source\repos\Atividade_1\Atividade_7\obj\Debug\net9.0\Atividade_7.genruntimeconfig.cache
+C:\Users\Bruno Capita\source\repos\Atividade_1\Atividade_7\obj\Debug\net9.0\ref\Atividade_7.dll
